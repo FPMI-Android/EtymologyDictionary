@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Etymology Dictionary</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Etymology</string>
+    <string name="key_search">Search</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+    <string name="action_finish">Finish</string>
+
+    <string name="share_facebook">Etymology is the history of words, their origins, and how their form and meaning have changed over time. By an extension, the term "the etymology of [a word]" means the origin of the particular word.
+This application provides you [45885] with detailed explaination of meaning.
+\n
+Link: https://play.google.com/store/apps/details?id=com.fpmil.developer.dictionary.ety</string>
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
