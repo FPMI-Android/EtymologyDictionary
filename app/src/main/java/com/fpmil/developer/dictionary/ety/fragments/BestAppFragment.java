@@ -130,7 +130,6 @@ public class BestAppFragment extends Fragment {
                 adapter.notifyDataSetChanged();
             }
             progressBar.setVisibility(View.GONE);
-            //Using git
         }
     }
 }
